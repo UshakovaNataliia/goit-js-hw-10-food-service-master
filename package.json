@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UshakovaNataliia/goit-js-hw-10-food-service"
+    "url": "git+https://github.com/UshakovaNataliia/goit-js-hw-10-food-service-master"
   },
   "keywords": [],
   "author": "Ushakova Nataliia <atis.ukr@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UshakovaNataliia/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/UshakovaNataliia/goit-js-hw-10-food-service-master/issues"
   },
   "homepage": "https://ushakovanataliia.github.io/goit-js-hw-10-food-service-master/",
   "devDependencies": {
