@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/UshakovaNataliia/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://ushakovanataliia.github.io/goit-js-hw-10-food-service/",
+  "homepage": "https://ushakovanataliia.github.io/goit-js-hw-10-food-service-master/",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
